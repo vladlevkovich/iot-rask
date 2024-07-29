@@ -1,0 +1,6 @@
+- ***`/register`*** - **User register**
+ - `/login` - **Login**
+ - `/add` - **Add a new device**
+ - `/device/{device_id}` - **Get device data**
+ - `/device-update/{device_id}` - **Update device data**
+ - `/device-delete/{device_id}` - **Delete device data**
